@@ -1,0 +1,4 @@
+#Wed Oct 05 20:28:43 BRT 2022
+base.0=/media/fabio-marins/Novo volume/FLUTTER/Deivyd/consumindo_api_http/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
